@@ -1,0 +1,365 @@
+body {
+    margin: 0px;
+}
+
+main {
+
+    background: #f3efef;
+}
+
+/*title section part*/
+
+.title-part {
+    background-image: url("image/Banner\ Image.png");
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    color: white;
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: rgb(4, 4, 14);
+}
+
+.happy {
+    text-align: center;
+}
+
+.Celebration {
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin: 0px;
+    padding: 0px;
+}
+
+/*offer-part section*/
+.offer-part {
+    text-align: center;
+    padding: 10px 20px 70px;
+
+}
+
+.offer-percent {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.holyday {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.CATEGORIES {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.offer-pic {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+}
+
+/*Welcome to midnight party*/
+
+.welcome-party {
+    background-image: url(image/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    margin: 0 auto;
+    padding: auto;
+    display: flex;
+}
+
+.midnight-party {
+
+    color: #FFF;
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 6.04px;
+    border: 126px, 126px, 298px;
+    padding: 0px;
+}
+
+.party-descriotion {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.year-pic {
+
+    width: 319.83px;
+    height: 464.662px;
+    padding: 0.008px 0px 0px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+/*New Park Hotel*/
+
+.Hotel {
+    width: 1320px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: 120px auto;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 110px;
+    text-align: center;
+
+
+}
+
+.text-color {
+
+    color: #F00;
+}
+
+.join-now {
+    margin-top: 48px;
+    background: #FF0000
+}
+
+.park-hotel {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    margin: 0px;
+}
+
+/*best-offer*/
+.best-offer-part {
+    justify-content: center;
+    align-items: center;
+    margin: 120px 150px 150px 120px;
+
+
+}
+
+.best-offer {
+    display: flex;
+}
+
+.best {
+    color: #F00;
+    font-size: 14px;
+
+}
+
+.soon {
+    font-size: 40px;
+}
+
+.best-discription {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.best-offer-pic {
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    margin: 0 auto;
+    bottom: 10px;
+}
+
+.best-offer-year {
+    text-align: center;
+}
+
+.year-new {
+    color: red;
+}
+
+.new-date-discription {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+/*functional*/
+.functional {
+    text-align: center;
+}
+
+.functional-title {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.functional-part-two {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.functional-discription {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.functional-pic {
+    background-image: url(image/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0 auto;
+    padding: 30px, 30px, 40px, 50px;
+    border-radius: 40px;
+}
+
+/* best gift offer part*/
+.best-gift {
+    width: 1320px;
+    margin: 120px auto;
+}
+
+
+.gift-title {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+
+}
+
+.Awesome {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.gift-discription {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+/*Subscribe section*/
+.Subscribe {
+    text-align: center;
+    width: 1320px;
+    margin: 120px auto;
+    background-color: rgba(255, 0, 0, 0.05);
+    border-radius: 16px
+}
+
+.Subscribe-contein {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px 30px;
+}
+
+.Subscribe-dis {}
+
+.email {
+    border-radius: 50px;
+    background: #FFF;
+    padding: 10px, 20px, 30px;
+
+}
+
+.Subscribe-button {
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+}
+
+/*footer-part-section*/
+.main-footer {
+    background-color: #070211;
+    width: 1320px;
+    height: 400px;
+    flex-shrink: 0;
+    margin: 0 auto;
+    padding: 20px 30px 40px;
+}
+
+.footer-part {
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.address {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.fotter-pic {
+    display: flex;
+    justify-content: center;
+
+}
+
+.footer-last{
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+}
